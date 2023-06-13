@@ -1,3 +1,2 @@
 class New {}
 ddd
-xxx
